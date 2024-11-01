@@ -1,0 +1,15 @@
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\bin\Debug\net8.0\Vendas.Data.deps.json
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\bin\Debug\net8.0\Vendas.Data.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\bin\Debug\net8.0\Vendas.Data.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\bin\Debug\net8.0\Vendas.Domain.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\bin\Debug\net8.0\Vendas.Domain.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.csproj.AssemblyReference.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.AssemblyInfoInputs.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.AssemblyInfo.cs
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.csproj.CoreCompileInputs.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.D.FA85770D.Up2Date
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\refint\Vendas.Data.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\Vendas.Data.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Data\obj\Debug\net8.0\ref\Vendas.Data.dll

@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gil\\Teste_Vendas\\Vendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A4BBF6-ECEA-433C-BF62-A167E8961E27}|Vendas.api\\Vendas.api.csproj|c:\\gil\\teste_vendas\\vendas\\vendas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7A4BBF6-ECEA-433C-BF62-A167E8961E27}|Vendas.api\\Vendas.api.csproj|solutionrelative:vendas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC70AA6-0C8F-4DB9-BB51-1FFE6B374865}|Vendas.Tests\\Vendas.Tests.csproj|c:\\gil\\teste_vendas\\vendas\\vendas.tests\\vendaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC70AA6-0C8F-4DB9-BB51-1FFE6B374865}|Vendas.Tests\\Vendas.Tests.csproj|solutionrelative:vendas.tests\\vendaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC70AA6-0C8F-4DB9-BB51-1FFE6B374865}|Vendas.Tests\\Vendas.Tests.csproj|c:\\gil\\teste_vendas\\vendas\\vendas.tests\\vendascontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC70AA6-0C8F-4DB9-BB51-1FFE6B374865}|Vendas.Tests\\Vendas.Tests.csproj|solutionrelative:vendas.tests\\vendascontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.api\\appsettings.json",
+              "RelativeDocumentMoniker": "Vendas.api\\appsettings.json",
+              "ToolTip": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.api\\appsettings.json",
+              "RelativeToolTip": "Vendas.api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T23:07:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendasControllerTests.cs",
+              "DocumentMoniker": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.Tests\\VendasControllerTests.cs",
+              "RelativeDocumentMoniker": "Vendas.Tests\\VendasControllerTests.cs",
+              "ToolTip": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.Tests\\VendasControllerTests.cs",
+              "RelativeToolTip": "Vendas.Tests\\VendasControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:37:15.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendaServiceTests.cs",
+              "DocumentMoniker": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.Tests\\VendaServiceTests.cs",
+              "RelativeDocumentMoniker": "Vendas.Tests\\VendaServiceTests.cs",
+              "ToolTip": "C:\\Gil\\Teste_Vendas\\Vendas\\Vendas.Tests\\VendaServiceTests.cs",
+              "RelativeToolTip": "Vendas.Tests\\VendaServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:36:33.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.csproj.AssemblyReference.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.AssemblyInfoInputs.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.AssemblyInfo.cs
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.csproj.CoreCompileInputs.cache
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Servico.deps.json
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Servico.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Servico.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Data.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Domain.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Data.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\bin\Debug\net8.0\Vendas.Domain.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.S.935F2DEA.Up2Date
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\refint\Vendas.Servico.dll
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\Vendas.Servico.pdb
+C:\Gil\Teste_Vendas\Vendas\Vendas.Servico\obj\Debug\net8.0\ref\Vendas.Servico.dll
